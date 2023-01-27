@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taha/static/css/main.a9222251.css",
+    "main.js": "/taha/static/js/main.2cbec8b2.js",
+    "static/media/image7.png": "/taha/static/media/image7.aa0212c1f51f2d3f55f2.png",
+    "static/media/image1.png": "/taha/static/media/image1.de50742a4a72fdcc5a80.png",
+    "static/media/image4.png": "/taha/static/media/image4.f9058c07edef99a12acf.png",
+    "static/media/image8.png": "/taha/static/media/image8.a1902b6f7182c1025f34.png",
+    "static/media/image9.png": "/taha/static/media/image9.80181a05bf2e90083938.png",
+    "static/media/image2.png": "/taha/static/media/image2.2fd61309fe41759ac964.png",
+    "static/media/image6.png": "/taha/static/media/image6.80f7d3d22a4adb9bf73f.png",
+    "static/media/image3.png": "/taha/static/media/image3.0645f3ba01b42b265b82.png",
+    "static/media/image5.png": "/taha/static/media/image5.1a1162473724f414ff7d.png",
+    "index.html": "/taha/index.html",
+    "main.a9222251.css.map": "/taha/static/css/main.a9222251.css.map",
+    "main.2cbec8b2.js.map": "/taha/static/js/main.2cbec8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9222251.css",
+    "static/js/main.2cbec8b2.js"
+  ]
+}
